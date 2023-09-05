@@ -25,15 +25,15 @@
 ## 文件结构
 说明项目的文件结构，可以列出重要文件和目录的作用。
 
-├── src
-│   ├── components
-│   ├── pages
-│   ├── styles
-│   └── utils
-├── public
-├── package.json
-├── README.md
-└── .gitignore
+├── src<br>
+│   ├── components<br>
+│   ├── pages<br>
+│   ├── styles<br>
+│   └── utils<br>
+├── public<br>
+├── package.json<br>
+├── README.md<br>
+└── .gitignore<br>
 ## 示例代码
 提供一些示例代码，方便其他开发者了解如何使用项目，可以包含简单的代码片段或者链接到具体文件。
 
